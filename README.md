@@ -11,8 +11,8 @@ I am a first-year computer engineering student at the University of Georgia, pas
   ○ [LinkedIn](https://www.linkedin.com/in/vithaal-dhamodharan-4187972bb/)
 
 ## ⚡Tech Stack:
-  ○ Languages: Python, Java, C
-  ○ Developer Tools: GitHub
+  ○ Languages: Python, Java, C <br>
+  ○ Developer Tools: GitHub <br>
   ○ Libraries/Frameworks: Django, Pypi, Pandas, PyGame
 
 <!--
