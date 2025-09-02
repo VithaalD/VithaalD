@@ -1,4 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Vithaal Dhamodharan
+
+## 🤔 About Me:
+I am a first-year computer engineering student at the University of Georgia, passionate about exploring the realms of coding and engineering!
+
+## 🔭 What I'm Learning:
+  ○ 💬 Developing a Python-Based Search Engine
+  ○ 🌱 Programming a Sudoku Solver in C
+
+## Connect with me:
+  ○ [LinkedIn](https://www.linkedin.com/in/vithaal-dhamodharan-4187972bb/)
+
+## ⚡Tech Stack:
+  ○ Languages: Python, Java, C
+  ○ Developer Tools: GitHub
+  ○ Libraries/Frameworks: Django, Pypi, Pandas, PyGame
 
 <!--
 **VithaalD/VithaalD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
