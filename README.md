@@ -11,7 +11,7 @@ I am a first-year computer engineering student at the University of Georgia, pas
 
 ## ⚡Tech Stack:
   ○ Languages: Python, Java, C#, MATLAB, & JavaScript <br>
-  ○ Developer Tools: GitHub, Android Studio, Unity, Git, JDK, & Anaconda <br>
+  ○ Developer Tools: VSCode, GitHub, Android Studio, Unity, Git, JDK, & Anaconda <br>
   ○ Libraries/Frameworks: Django, PyTorch, React, Pandas, & DeepLabCut
 
 <!--
