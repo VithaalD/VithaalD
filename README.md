@@ -10,7 +10,7 @@ I am a first-year computer engineering student at the University of Georgia, pas
   ○ [LinkedIn](https://www.linkedin.com/in/vithaal-dhamodharan-4187972bb/)
 
 ## ⚡Tech Stack:
-  ○ Languages: Python, Java, C#, & JavaScript <br>
+  ○ Languages: Python, Java, C#, MATLAB, & JavaScript <br>
   ○ Developer Tools: GitHub, Android Studio, Unity, Git, JDK, & Anaconda <br>
   ○ Libraries/Frameworks: Django, PyTorch, React, Pandas, & DeepLabCut
 
