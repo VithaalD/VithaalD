@@ -5,15 +5,14 @@ I am a first-year computer engineering student at the University of Georgia, pas
 
 ## 🔭 What I'm Learning:
   ○ 💬 Developing a Python-Based Search Engine <br>
-  ○ 🌱 Programming a Sudoku Solver in C
 
 ## Connect with me:
   ○ [LinkedIn](https://www.linkedin.com/in/vithaal-dhamodharan-4187972bb/)
 
 ## ⚡Tech Stack:
-  ○ Languages: Python, Java, C <br>
-  ○ Developer Tools: GitHub <br>
-  ○ Libraries/Frameworks: Django, Pypi, Pandas, PyGame
+  ○ Languages: Python, Java, C#, & JavaScript <br>
+  ○ Developer Tools: GitHub, Android Studio, Unity, Git, JDK, & Anaconda <br>
+  ○ Libraries/Frameworks: Django, PyTorch, React, Pandas, & DeepLabCut
 
 <!--
 **VithaalD/VithaalD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
