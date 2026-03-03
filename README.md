@@ -12,7 +12,7 @@ I am a first-year computer engineering student at the University of Georgia, pas
 ## ⚡Tech Stack:
   ○ Languages: Python, Java, C#, MATLAB, & JavaScript <br>
   ○ Developer Tools: VS Code, GitHub, Android Studio, Unity, Git, JDK, & Anaconda <br>
-  ○ Libraries/Frameworks: Django, PyTorch, React, Pandas, & DeepLabCut
+  ○ Libraries/Frameworks: Django, PyTorch, React, Pandas, numpy, & DeepLabCut
 
 <!--
 **VithaalD/VithaalD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
