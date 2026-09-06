@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Vithaal Dhamodharan
 
 ## 🤔 About Me:
-I am a first-year computer engineering student at the University of Georgia, passionate about exploring the realms of coding and engineering!
+I am a second-year computer engineering student at the University of Georgia, passionate about exploring the realms of coding and engineering!
 
 ## 🔭 What I'm Learning:
   ○ 💬 Developing a Python-Based Search Engine <br>
